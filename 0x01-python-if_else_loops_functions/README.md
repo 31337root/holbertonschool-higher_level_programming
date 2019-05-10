@@ -6,3 +6,4 @@
 # 4-print_hexa.py - Program that prints all numbers from 0 to 98 in decimal and in hexadecimal.
 # 5-print_comb2.py - Program that prints numbers from 0 to 99.
 # 6-print_comb3.py - program that prints all possible different combinations of two digits.
+# 7-islower.py - Function that checks for lowercase character.
