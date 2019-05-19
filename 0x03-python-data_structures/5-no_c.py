@@ -3,7 +3,7 @@
 
 def no_c(my_string):
 
-    if my_string:
+    if (my_string) and (my_string[0]):
         my_string = list(my_string)
         for i in my_string:
             if (i == 'c'):
