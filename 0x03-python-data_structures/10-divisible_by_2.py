@@ -7,7 +7,7 @@ def divisible_by_2(my_list=[]):
     i = 0
     for i in my_list:
         if (i % 2) == 0:
-            is_multiple.append("True")
+            is_multiple.append(True)
         else:
-            is_multiple.append("False")
+            is_multiple.append(False)
     return is_multiple
