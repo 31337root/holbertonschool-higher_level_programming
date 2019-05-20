@@ -14,5 +14,7 @@ def max_integer(my_list=[]):
                 temp = my_list[i]
             i += 1
         return temp
+        elif len(my_list) = 1:
+            return my_list[0]
     else:
         return None
