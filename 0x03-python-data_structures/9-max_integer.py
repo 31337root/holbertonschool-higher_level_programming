@@ -10,6 +10,8 @@ def max_integer(my_list=[]):
                 if my_list[i] > my_list[i + 1]:
                     temp = my_list[i]
                     my_list[i + 1] = temp
+            elif my_list[i] > my_list[i - 1]:
+                temp = my_list[i]
             i += 1
         return temp
     else:
