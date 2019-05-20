@@ -11,3 +11,4 @@
 # 9-max_integer.py - function that finds the biggest integer of a list.
 # 10-divisible_by_2.py - function that finds all multiples of 2 in a list.
 # 11-delete_at.py - function that deletes the item at a specific position in a list.
+# 12-switch.py - Complete the source code in order to switch value of a and b.
