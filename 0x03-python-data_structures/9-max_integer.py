@@ -13,8 +13,8 @@ def max_integer(my_list=[]):
             elif my_list[i] > my_list[i - 1]:
                 temp = my_list[i]
             i += 1
+            if len(my_list) == 1:
+                return my_list[0]
         return temp
-        if len(my_list) == 1:
-            return my_list[0]
     else:
         return None
