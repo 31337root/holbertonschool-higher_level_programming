@@ -30,8 +30,8 @@ class Square:
 
     @position.setter
     def position(self, val):
-        if (len(val) == 2 and
-        (map(lambda x: True if type(x) == int and x >= 0 else False), val)):
+        if (len(val) == 2 and (map(lambda x:
+           True if (type(x) == int and x >= 0) else False), val)):
             self.__position = val
         else:
             raise TypeError("position must be a tuple of 2 positive integers")
