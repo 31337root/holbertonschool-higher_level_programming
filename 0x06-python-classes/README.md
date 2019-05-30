@@ -5,3 +5,4 @@
 # 3-square.py - Class Square that defines a square by: Private instance attribute: size.
 # 4-square.py - Class that return the square with area() method.
 # 5-square.py - Class that prints in stdout the square with the character # with my_print() method.
+# 6-square.py - Same but with new instance attribute to print spaces with my_print().
