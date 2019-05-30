@@ -3,3 +3,4 @@
 # 1-square.py - class Square that defines a square by private instance attribute: size.
 # 2-square.py - class Square that defines a square by private instance attribute: size.
 # 3-square.py - class Square that defines a square by: Private instance attribute: size.
+# 4-square.py - Class that return the square with area method.
