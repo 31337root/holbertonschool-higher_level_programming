@@ -2,5 +2,6 @@
 
 '''Empty class that do nothing.'''
 
+
 class Square:
     pass
