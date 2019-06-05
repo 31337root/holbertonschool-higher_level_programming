@@ -5,7 +5,8 @@ def add_integer(a, b=98):
 
     """Function to add two integers."""
 
-    if (type(a) is int or type(a) is float) and (type(b) is int or type(b) is float):
+    if (type(a) is int or type(a) is float) and
+    (type(b) is int or type(b) is float):
         if type(a) is float:
             a = int(a)
         if type(b) is float:
