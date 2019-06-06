@@ -1,0 +1,33 @@
+==================================
+ How to use 5-text_indentation.py
+==================================
+
+``text_indentation()`` function that prints a text with 2 new lines after each of these characters: ., ? and :.
+
+Strings
+=======
+
+    >>> text_indentation = __import__('5-text_indentation').text_indentation
+    >>> text_indentation("Hola. Como estas? Bien sin tildes.")
+    Hola.
+    <BLANKLINE>
+    Como estas?
+    <BLANKLINE>
+    Bien sin tildes.
+    <BLANKLINE>
+
+Non-strings
+===========
+
+    >>> text_indentation("LMAO")
+    LMAO
+
+    >>> text_indentation("")
+
+    >>> text_indentation(2)
+    Traceback (most recent call last):
+    TypeError: text must be a string
+
+    >>> text_indentation(["Hola."])
+    Traceback (most recent call last):
+    TypeError: text must be a string
