@@ -7,4 +7,5 @@
 # 5-rectangle.py - Same but new __del__ method defined.
 # 6-rectangle.py - Same but new number_of_instances class attribute to count.
 # 7-rectangle.py - Modifying __str__ to return a dynamic type of symbol.
-# 8-rectangle.py - Same but new @staticmethod bigger_or_equal(rect_1, rect_2) defined
+# 8-rectangle.py - Same but new @staticmethod bigger_or_equal(rect_1, rect_2) defined.
+# 9-rectangle.py - Same but new @classmethod def square(cls, size=0) defined.
