@@ -6,3 +6,4 @@
 # 4-rectangle.py - Same but new __repr__ method defined.
 # 5-rectangle.py - Same but new __del__ method defined.
 # 6-rectangle.py - Same but new number_of_instances class attribute to count.
+# 7-rectangle.py - Modifying __str__ to return a dynamic type of symbol.
