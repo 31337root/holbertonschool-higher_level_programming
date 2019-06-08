@@ -4,3 +4,4 @@
 # 2-rectangle.py - Same but new methods area() and perimeter().
 # 3-rectangle.py - Same but new __str__ method defined.
 # 4-rectangle.py - Same but new __repr__ method defined.
+# 5-rectangle.py - Same but new __del__ method defined.
