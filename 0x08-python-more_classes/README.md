@@ -1,3 +1,4 @@
 #0x08. Python - More Classes and Objects
-# 0-rectangle.py - empty class Rectangle that defines a rectangle.
-# 1-rectangle.py - class Rectangle that defines a rectangle by width and height.
+# 0-rectangle.py - Empty class Rectangle that defines a rectangle.
+# 1-rectangle.py - Class Rectangle that defines a rectangle by width and height.
+# 2-rectangle.py - Same but new methods area() and perimeter().
