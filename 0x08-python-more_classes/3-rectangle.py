@@ -16,6 +16,9 @@ class Rectangle:
                 rectangle_str += '#'
             if h < (self.__height - 1):
                 rectangle_str += '\n'
+        if self.__height == 0:
+            for w in range(self.__width):
+                rectangle_str += '#'
         return rectangle_str
 
     @property
