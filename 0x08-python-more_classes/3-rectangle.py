@@ -11,15 +11,14 @@ class Rectangle:
     def __str__(self):
         rectangle_str = ""
 
-        for h in range(self.__height):
-            for w in range(self.__width):
-                rectangle_str += '#'
-            if h < (self.__height - 1):
-                rectangle_str += '\n'
-        if self.__height == 0:
-            for w in range(self.__width):
-                rectangle_str += '#'
-        return rectangle_str
+        if self.__height > 0 and self.__width > 0:
+            for h in range(self.__height):
+                for w in range(self.__width):
+                    rectangle_str += '#'
+                if h < (self.__height - 1):
+                    rectangle_str += '\n'
+            return rectangle_str
+        return "\n"
 
     @property
     def width(self):
