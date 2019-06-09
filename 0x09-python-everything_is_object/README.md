@@ -3,3 +3,4 @@
 # 1-answer.txt - Function to get the variable identifier.
 # 2-answer.txt - Do a and b point to the same object? Answer with Yes or No.
 # 3-answer.txt - Do a and b point to the same object? Answer with Yes or No.
+# 4-answer.txt - Do a and b point to the same object? Answer with Yes or No.
