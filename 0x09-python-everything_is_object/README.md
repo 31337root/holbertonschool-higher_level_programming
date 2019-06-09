@@ -17,3 +17,4 @@
 # 15-answer.txt - What does this script print?
 # 16-answer.txt - What does this script print?
 # 17-answer.txt - What does this script print?
+# 18-answer.txt - What does this script print?
