@@ -28,3 +28,4 @@
 # 26-answer.txt - What does this script print?
 # 27-answer.txt - Will the last line of this script print 139926795932424? Answer with Yes or No.
 # 28-answer.txt - Will the last line of this script print 139926795932424? Answer with Yes or No.
+# 106-line1.txt, 106-line2.txt, 106-line3.txt, 106-line4.txt, 106-line5.txt - Answers for task 30.
