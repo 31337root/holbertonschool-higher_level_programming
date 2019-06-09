@@ -26,3 +26,4 @@
 # 24-answer.txt - What does this script print?
 # 25-answer.txt - What does this script print?
 # 26-answer.txt - What does this script print?
+# 27-answer.txt - Will the last line of this script print 139926795932424? Answer with Yes or No.
