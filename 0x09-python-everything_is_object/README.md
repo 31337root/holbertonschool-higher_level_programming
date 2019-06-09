@@ -21,3 +21,4 @@
 # 19-copy_list.py - Function def copy_list(l): that returns a copy of a list.
 # 20-answer.txt - Is a a tuple? Answer with Yes or No.
 # 21-answer.txt - Is a a tuple? Answer with Yes or No.
+# 22-answer.txt - Is a a tuple? Answer with Yes or No.
