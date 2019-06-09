@@ -25,3 +25,4 @@
 # 23-answer.txt - Is a a tuple? Answer with Yes or No.
 # 24-answer.txt - What does this script print?
 # 25-answer.txt - What does this script print?
+# 26-answer.txt - What does this script print?
