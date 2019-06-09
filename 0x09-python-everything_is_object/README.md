@@ -7,3 +7,4 @@
 # 5-answer.txt - Do a and b point to the same object? Answer with Yes or No.
 # 6-answer.txt - What do these 3 lines print?
 # 7-answer.txt - What do these 3 lines print?
+# 8-answer.txt - What do these 3 lines print?
