@@ -18,3 +18,4 @@
 # 16-answer.txt - What does this script print?
 # 17-answer.txt - What does this script print?
 # 18-answer.txt - What does this script print?
+# 19-copy_list.py - Function def copy_list(l): that returns a copy of a list.
