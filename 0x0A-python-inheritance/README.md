@@ -7,3 +7,4 @@
 # 5-base_geometry.py - Empty class BaseGeometry.
 # 6-base_geometry.py - New instance method: def area(self): in BaseGeometry class.
 # 7-base_geometry.py, tests/7-base_geometry.txt - instance method: def integer_validator(self, name, value): that validates value.
+# 8-rectangle.py - Inherits from BaseGeometry and initialize two fields.
