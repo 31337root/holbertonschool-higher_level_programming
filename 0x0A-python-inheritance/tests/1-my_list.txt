@@ -1,0 +1,25 @@
+=========================
+ How to Use 1-my_list.py 
+=========================
+
+``MyList()`` Class with ``print_sorted()`` method.
+
+``print_sorted()`` Function to print a list sorted.
+
+Lists
+=====
+
+::
+
+    >>> MyList = __import__('1-my_list').MyList
+    >>> my_list = MyList()
+
+    >>> my_list.append(1)
+    >>> my_list.append(1)
+    >>> my_list.pop()
+    1
+
+    >>> my_list.print_sorted()
+    [1]
+
+    >>> 
