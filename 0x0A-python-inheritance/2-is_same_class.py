@@ -8,5 +8,4 @@ def is_same_class(obj, a_class):
     if obj is not None and a_class is not None:
         if type(obj) is a_class:
             return True
-        else:
-            return False
+    return False
