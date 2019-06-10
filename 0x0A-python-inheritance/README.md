@@ -9,3 +9,4 @@
 # 7-base_geometry.py, tests/7-base_geometry.txt - instance method: def integer_validator(self, name, value): that validates value.
 # 8-rectangle.py - Inherits from BaseGeometry and initialize two fields.
 # 9-rectangle.py - area() method must be implemented.
+# 10-square.py - inherits from Rectangle and initialize one field.
