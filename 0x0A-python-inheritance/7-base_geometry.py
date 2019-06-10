@@ -3,6 +3,9 @@
 
 class BaseGeometry:
 
+    """Instance method: def area(self): that raises an Exception.
+    Instance method: integer_validator(self) that validates value."""
+
     def area(self):
 
     """Instance method: def area(self): that raises an Exception."""
