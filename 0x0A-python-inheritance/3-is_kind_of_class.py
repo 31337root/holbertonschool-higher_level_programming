@@ -9,3 +9,4 @@ def is_kind_of_class(obj, a_class):
 
     if obj is not None and a_class is not None:
         return isinstance(obj, a_class)
+    return False
