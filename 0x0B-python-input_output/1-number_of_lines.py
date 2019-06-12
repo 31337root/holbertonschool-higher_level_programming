@@ -3,7 +3,7 @@
 
 def number_of_lines(filename=""):
 
-    n = 1
+    n = 0
 
     with open(filename) as ofile:
         for l in ofile:
