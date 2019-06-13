@@ -6,9 +6,6 @@ save_to_json_file = __import__('7-save_to_json_file').save_to_json_file
 
 with open("add_item.json", 'a') as temp:
 
-    """Script that adds all arguments to a Python list,
-    and then save them to a file."""
-
     a_list = []
     a_list = load_from_json_file("add_item.json")
 
