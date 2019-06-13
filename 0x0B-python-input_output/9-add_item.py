@@ -9,9 +9,10 @@ a_list = []
 try:
     a_list = load_from_json_file("add_item.json")
 
-    for i in argv[1:]:
-        a_list.append(i)
 except:
     pass
+
+    for i in sys.argv[1:]:
+        a_list.append(i)
 
     save_to_json_file(a_list, "add_item.json")
