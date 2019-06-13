@@ -12,3 +12,4 @@
 # 10-class_to_json.py - Function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object.
 # 11-student.py - Class Student that defines a student by last anme, first name and age..
 # 12-student.py - Public method to_json(self, attrs=None) with new feature.
+# 13-student.py - New public method reload_from_json(self, json): that replaces all attributes of the Student instance.
