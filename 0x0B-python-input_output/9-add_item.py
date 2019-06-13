@@ -12,7 +12,7 @@ try:
 except:
     pass
 
-    for i in sys.argv[1:]:
-        a_list.append(i)
+for i in sys.argv[1:]:
+    a_list.append(i)
 
-    save_to_json_file(a_list, "add_item.json")
+save_to_json_file(a_list, "add_item.json")
