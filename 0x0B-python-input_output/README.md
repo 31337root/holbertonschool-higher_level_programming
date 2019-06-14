@@ -13,3 +13,4 @@
 # 11-student.py - Class Student that defines a student by last anme, first name and age..
 # 12-student.py - Public method to_json(self, attrs=None) with new feature.
 # 13-student.py - New public method reload_from_json(self, json): that replaces all attributes of the Student instance.
+# 14-pascal_triangle.py - Returns a list of lists of integers representing the Pascal’s triangle of n-
